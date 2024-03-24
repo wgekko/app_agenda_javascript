@@ -1,0 +1,41 @@
+html{
+    min-height: 100%;
+}
+body{
+    background: #053265;
+    /*min-height: 100%;*/
+}
+
+*{
+    color: rgb(172, 186, 199);
+}
+
+#Update{
+    display: none;
+}
+
+h2 {
+    color: aliceblue;
+    font-family: arial;
+    text-align: center;    
+    border: 2px solid rgb(232, 227, 217);
+    border-radius: 7px;
+}
+
+.title{
+    color: aliceblue;
+}
+
+p{
+    color: #2d12db;
+}
+a {
+    text-decoration: none;
+    outline: none;
+}
+
+.container {
+    text-align: center;
+}
+
+
